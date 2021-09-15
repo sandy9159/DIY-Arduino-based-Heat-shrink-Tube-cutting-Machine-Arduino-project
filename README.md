@@ -93,8 +93,23 @@ Then I installed some vertical sliding arrangment like I hold 8mm SS smooth rod 
 
 and I have SC8UU 8MM Linear bear 
 
+![image](https://user-images.githubusercontent.com/19898602/133385579-812b26ad-e824-49dd-8a60-82cb69303ca3.png)
 
+I have printed some parts in my 3D printer using PLA filament with 50 % infill
 
+This parts are used for holding Servo motor, holding cutter blade and for holding Stepper motors
+
+you can get all the 3D files from the link 
+
+https://pinshape.com/items/107790-3d-printed-diy-arduino-based-heat-shrink-tube-cutting-machine
+
+![Capture](https://user-images.githubusercontent.com/19898602/133386314-a96a5e77-a1d9-4a75-8ac5-01e98b485fbb.JPG)
+
+This is the HMI screen of the machine user can input data like LENGTH means how long tube need to cut and QTY means how many tubes needs to be cut 
+
+and the as soon we press START the machine starts running...
+
+![MVI_0001_3_1](https://user-images.githubusercontent.com/19898602/133387157-075000f1-79d1-41c3-b140-1de4b4be6a28.gif)
 
 
 
