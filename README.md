@@ -79,7 +79,19 @@ They have Special offer of $2 for 1-4 Layer PCBs, free SMT assembly monthly.
 If you get yourself registered today at [JLCPCB](https://jlcpcb.com/IAT ) you get 18$ welcome coupon from [JLCPCB](https://jlcpcb.com/IAT ).
 
 
+![image](https://user-images.githubusercontent.com/19898602/133384475-589a56a2-6441-4fab-bfc9-4f1e55c9dd89.png)
 
+
+The base of this machine is made from 12mm thick wooden base I have cut it in size of 230 x 210 mm
+
+I have placed the rubber leg at the bottom of the base for better grip
+
+![image](https://user-images.githubusercontent.com/19898602/133385070-247c86b0-bfdc-432b-9cc5-882cb576389c.png)
+
+
+Then I installed some vertical sliding arrangment like I hold 8mm SS smooth rod with the help of 8mm shaft holder
+
+and I have SC8UU 8MM Linear bear 
 
 
 
